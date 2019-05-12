@@ -4,7 +4,7 @@
 
 # CycleGAN and pix2pix in PyTorch
 
-We provide PyTorch implementations for both unpaired and paired image-to-image translation.
+This code is forked from PyTorch implementations for [cycle-gan](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
 
 The code was written by [Jun-Yan Zhu](https://github.com/junyanz) and [Taesung Park](https://github.com/taesung), and supported by [Tongzhou Wang](https://ssnl.github.io/).
 
